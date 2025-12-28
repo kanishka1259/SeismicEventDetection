@@ -1,0 +1,7 @@
+# Ignore datasets
+data/
+*.npz
+
+# Ignore Python cache
+__pycache__/
+*.pyc
